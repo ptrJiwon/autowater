@@ -5,7 +5,7 @@ Auto water is automatic plant watering system built with arduino UNO.
 
 ## Development Environment
 
-- **Board**: Arduino UNO R4 (wifi)
+- **Board**: Arduino UNO
 - **IDE**: Arduino IDE
 - **Display**: LCD Display (16x2)
 - **Libraries**: LiquidCrystal_I2C
